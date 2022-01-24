@@ -14,4 +14,4 @@
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushete2005)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+<!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
